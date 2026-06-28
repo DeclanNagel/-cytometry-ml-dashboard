@@ -28,9 +28,15 @@ Built with **Python, Streamlit, pandas, scikit-learn, Plotly, and UMAP**.
 
 ## Screenshots
 
-> _Add screenshots here after running the app locally, e.g.:_
-> `docs/preprocessing.png`
-> `docs/screenshot_preprocessing.png`
-> `docs/screenshot_visualization.png`
-> `docs/screenshot_clustering.png`
-> `docs/screenshot_report.png`
+
+### Preprocessing & QC
+![Preprocessing tab](docs/screenshot_preprocessing.png)
+
+### Visualization
+![Visualization tab](docs/screenshot_visualization.png)
+
+### Clustering & Auto-gating
+![Clustering tab](docs/screenshot_clustering.png)
+
+### Report
+![Report tab](docs/screenshot_report.png)
