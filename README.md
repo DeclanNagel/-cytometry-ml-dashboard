@@ -1,4 +1,4 @@
-# 🧬 Cytometry ML Analysis Dashboard
+# Cytometry ML Analysis Dashboard
 
 An interactive web application for exploring flow-cytometry-like single-cell
 data: upload or simulate data, preprocess it, visualize cell populations,
@@ -7,14 +7,14 @@ run ML-based clustering ("automated gating"), and export an analysis report
 
 Built with **Python, Streamlit, pandas, scikit-learn, Plotly, and UMAP**.
 
-> ⚠️ **Disclaimer:** This is a portfolio/demonstration project. The
+>  **Disclaimer:** This is a portfolio/demonstration project. The
 > synthetic dataset and auto-gating heuristics are simplified analogues of
 > real immunophenotyping workflows and are **not validated for clinical,
 > diagnostic, or research use**.
 
 ---
 
-## ✨ What it does
+## What it does
 
 | Step | What happens |
 |---|---|
