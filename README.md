@@ -26,10 +26,10 @@ Built with **Python, Streamlit, pandas, scikit-learn, Plotly, and UMAP**.
 
 ---
 
-## 🖥️ Screenshots
+## Screenshots
 
 > _Add screenshots here after running the app locally, e.g.:_
->
+> `docs/preprocessing.png`
 > `docs/screenshot_preprocessing.png`
 > `docs/screenshot_visualization.png`
 > `docs/screenshot_clustering.png`
