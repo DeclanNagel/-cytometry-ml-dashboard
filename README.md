@@ -30,13 +30,16 @@ Built with **Python, Streamlit, pandas, scikit-learn, Plotly, and UMAP**.
 
 
 ### Preprocessing & QC
-![Preprocessing tab](docs/screenshot_preprocessing.png)
+![Preprocessing tab](docs/preprocessing.png)
+![Preprocessing tab](docs/preprocessing_2.png)
 
 ### Visualization
-![Visualization tab](docs/screenshot_visualization.png)
+![Visualization tab](docs/visuals.png)
+![Visualization tab](docs/visuals_2.png)
 
 ### Clustering & Auto-gating
-![Clustering tab](docs/screenshot_clustering.png)
+![Clustering tab](docs/clustering.png)
+![Clustering tab](docs/clustering_2.png)
 
 ### Report
-![Report tab](docs/screenshot_report.png)
+![Report tab](docs/report.png)
