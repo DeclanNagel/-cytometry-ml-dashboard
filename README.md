@@ -31,7 +31,7 @@ Built with **Python, Streamlit, pandas, scikit-learn, Plotly, and UMAP**.
 
 ### Preprocessing & QC
 ![Preprocessing tab](docs/preprocessing.png)
-![Preprocessing tab](docs/preprocessing_2.png)
+![Preprocessing tab more](docs/preprocessing_2.png)
 
 ### Visualization
 ![Visualization tab](docs/visuals.png)
